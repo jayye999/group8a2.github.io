@@ -22,79 +22,111 @@ From the result of Myers Briggs Type Indicator Test. It says my type is Advocate
 Name:Tianlang Huang.
 Student number:s3886233
 email:s3886233@student.rmit.edu.au
-My name is Tianlang Huang, I am 20, This is my first year in RMIT university. I feel very excited. My favourite sport is basketball. My wish is to finish assignment 2!
+My name is Tianlang Huang, I am 20, This is my first year in RMIT university. I feel very excited. My favourite sport is basketball,and I like playing games, this is one of the reasons that I choose IT to be my degree.My wish is to finish assignment 2!
 
 Abu Shafin Solaiman
 S3643565
 S3643565@student.rmit.edu.au
 I am an international student studying Bachelor of Business Information Systems here at RMIT University in Melbourne, Australia. Currently, I am in my final year final semester. My nationality is Bangladeshi, my mother tongue is Bangla and English is my second language. Before starting my Bachelor’s, I gave my IGCSE and IAL in Bangladesh under British Council. At my leisure times, I usually go beach hopping as I love to sit in front of the ocean and listen to some chilled music all by myself. Other than that, I love playing football and playing PC games like Call of Duty.
 
+Abhiraj Singh
+S3774607
+S3774607@student.rmit.edu.au
+I am an international student studying
+Bachelor of Information Technology here at Royal Melbourne Institute of  Technology. I am 19 years old,I am originally
+from India but I have lived in other countries most of life, I started working
+when I was 17 years old and became a manager of a company last year. I was working
+under a company working for the government under the VEU program. This year I
+have started my own business and have become and Accredited Provider like the
+company I used to work in. In my free times, I read about the latest technology, research about new cars and go on drives.
+
+S3774607@student.rmit.edu.au
+I am an international student studying
+Bachelor of Information Technology here at Royal Melbourne Institute of  Technology. I am 19 years old,I am originally
+from India but I have lived in other countries most of life, I started working
+when I was 17 years old and became a manager of a company last year. I was working
+under a company working for the government under the VEU program. This year I
+have started my own business and have become and Accredited Provider like the
+company I used to work in. In my free times, I read about the latest technology, research about new cars and go on drives.
+
+
+Zelong Liu
+S3794027
+
+I am a student from RMIT majoring in Information Technology. I am twenty years old. I graduated from RMIT Foundation to Bachelor of Information Technology. I am interested in artificial intelligence and networking. I became interested in networking when I was in primary school, because I like playing online computer games and often encounter hacker players. Moreover, I am interested in artificial intelligence cause my uncle gives me the idea. His job is related to IT and tells me I will be popular.
+
+
 
 
 
 # Industry Data
-   What are the Job Titles for your group's ideal jobs? How do each of these rank in terms of demand from employers?
+### What are the Job Titles for your group's ideal jobs? How do each of these rank in terms of demand from employers?
 The job titles for our group’s ideal jobs are Business Analyst, IT Project Manager, Data Science and Cloud system engineer.
 Business Analysts play a crucial part in assisting organizations with fixing obsolete cycles and implementing new technology. They are sought after in each space of business, from money to IT to corporate administration. As data collection increases and innovation keeps on creating, the job of the IT business analyst is extending also. Job descriptions are developing beyond IT and software to include business components with the ability to focus on the strategy aspect of their roles – and this transition presents a spike in career opportunities. The Bureau of Labour Statistics gauges the requirement for business analysts to rise 14% by 2024. Hence, they are in demand by employers (5 In-Demand Career Paths for Business Analysts, 2021).
 IT Project Manager is a popular career in the IT field. IT project managers plan, sort out, and coordinate cross-practical data innovation projects that are huge in degree and effect. They organize the works by other IT experts and administrative staff to deliver another new arrangement of programming. Job projection is expected to increase up to 9% by 2026, according to The Bureau of Labour Statistics. Even today, big companies are in search of IT project managers (5 In-Demand Career Paths for Business Analysts, 2021).
+
 Data Science is one of the most highly paid jobs and is said to be the ‘sexiest job of the 21st century’.  Data Scientists make an average of $116,100 per year. This makes Data Science a highly lucrative career option. Data Science is the investigation of data. It is tied in with removing, dissecting, picturing, overseeing and putting away information to create insights. These bits of knowledge assist the organizations with settling on incredible data driven choices. Jobs for Data Scientists will always be in high demand as long as there is IT in any organization (Gour, 2019).
+
 A cloud engineer is an IT professional liable for any innovative obligations related with cloud computing, including configuration, planning, management, maintenance and backing.  Employers that recruit cloud engineers are regularly hoping to convey cloud benefits or expand their cloud comprehension and innovation and implement them in their organisations. Big companies like Amazon have Amazon Web Services which is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. Hence, these companies are in sought of recruiting cloud engineers. AWS also offers graduate programs for students who just finished their studies. Therefore, there are a lot of opportunities for newbies to join and learn about AWS.
  
-From your group's ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group's required skill set). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).
+### From your group's ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group's required skill set). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).
  
 For all job titles mentioned above, there are different types of skill sets needed to be applicable for working in these professions. The list of IT skills needed to work in these professions are endless. For a Business analyst, some IT skills needed are programming languages such as SQL for sorting and managing data, R for statistical analysis and Python to perform general programming. This will help in analysing big data sets. Furthermore, Business analysis is also needed. Similarly, for an IT Project manager the main IT skill set is SQL. SQL helps IT project managers to sort, analyse and manage company’s data. They also must have project management skills to be able to manage projects and bring outcomes accordingly. Skills employers search for in a Data Scientist are mainly programming languages like Python, SQL, XML and .net which is mainly for Azure developers. and software engineering which are some amongst the IT skills. For a cloud engineer, Linux and Python are very vital skill sets.
+
 General skills are significant on the jobs that positions today require adaptability, drive and the capacity to attempt various undertakings. They are not as barely recommended and characterized as previously and they are more service oriented, making data and social abilities progressively significant. Business analyst recruiters often seek good communication, facilitation, analytical thinking, and problem-solving skills. IT project managers must have Planning and forecasting, risk management and project management skills. They must also have negotiation, accountability, and leadership skills to handle any situation when doing business. Data scientists are expected to know a lot — machine learning, computer science, statistics, mathematics, data visualization, communication, and deep learning. Cloud engineers should have analytical and problem-solving skills and knowledge of how to do networking.
+
 Three highest ranked IT skills not needed for the job titles mentioned above are Microsoft windows, graphic design and SAP.
 Three highest ranked general skills not needed for the job titles mentioned above are organisational, writing and presentation skills.
-Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?
+
+### Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not
 Yes, having looked at the Burning Glass data, my opinion about my ideal job has changed. Looking at all the data of the job titles, I do not see any Business Analyst in that list. This gets me thinking whether I chose the right ideal job for myself. There are other similar jobs like solutions architect, software engineer, network engineer and service desk analyst on the list of job titles for Burning Glass Technologies. I am very much fond of programming and I want to work in a field where there is programming, in short, I want to use my SQL, Java and Python knowledge in my work as my bachelor’s degree is Bachelor of Business (Information Systems) and I am in my last semester. Hence, I still have time to choose my career wisely and somewhere where I can prosper and looking at the data of Burning Glass, I do not see myself becoming a Business Analyst.
 
 
 
 # IT works
 For this question, I interviewed my elder sister. She has a master's degree in IT from Shanghai Jiao Tong University. She does data analysis in the information security department of the Agricultural Bank of China. Currently engaged in information technology related work. Through the following questions, I interviewed her feelings about the IT industry and her work. Because she is more introverted and pays attention to personal privacy, so refused to record the request. But I recorded what she said and translated it into English.
-1, What kind of work is done by the IT professional?
+#### 1, What kind of work is done by the IT professional?
 In my opinion, there are many directions in the work of the IT industry, and each direction has a different way of working.
 In the direction of product, this kind of workers not only need to have good information technology, but also need to have the ability to communicate with users. They need to understand the needs of users through the conversation with users to make clear the design direction and elements of products, so as to design products that satisfy users
 Technical workers need to do more professional things, including determining technical solutions and architecture. As well as the specific code development and code testing.
 In the aspect of operation and maintenance in the later stage, IT personnel should continue to solve a series of operational vulnerabilities for software or web products. Compared with the technical development of some web pages and software, it is also very important for their later maintenance
  
-2, What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors?
+#### 2, What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors?
 The general public?
 The people we deal with include customers, investors and other IT professionals, which are determined according to different links and work directions. For example, if you are partial to the direction of products, you will deal with customers and investors, and you will communicate and discuss with other IT people when you develop specific products. The communication between IT professionals and the general public is relatively less.
  
  
-3, Where does the IT professional spend most of their time?
+#### 3, Where does the IT professional spend most of their time?
 For this question, because the IT industry has many specific branches. According to the position and direction, the time spent is also different, cannot be generalized, requirement determination, development coding, documentation and subsequent operation and maintenance will take time.
  
-4, What aspect of their position is most challenging?
+#### 4, What aspect of their position is most challenging?
 The most challenging aspect varies from person to person and from job to job. It may be understanding the real needs of customers and products, accumulating technology and keeping up with the rapid development of new technology, or understanding and abstracting technology. For IT professionals there are also many kinds. They all have their own fields to work in.
  
  
-5, Please tell us about your IT work. What exactly do you do?
+#### 5, Please tell us about your IT work. What exactly do you do?
 Specifically, it is to do the data analysis work of the banking industry, which belongs to the background service department and serves the business front desk. Through the analysis of transaction data and customer data, it can improve the service quality and do a good job in risk control, and also involves some development tasks.
  
-6, Please tell us about the industry you work in.
+#### 6, Please tell us about the industry you work in.
 The Agricultural Bank of China I work for is one of the five largest banks in China. As a traditional large enterprise, it pays more attention to security than the general small and medium-sized enterprises. We attach great importance not only to the security of customer information, but also to the security of enterprise information.
  
-7, What other kinds of work do you have to do?
+#### #### 7, What other kinds of work do you have to do?
 My job is to help front desk staff better serve customers through data analysis. Occasionally there will be development tasks assigned to me.
  
-8, Who are all the different people you interact with in your work? Please tell us about them. & Please tell us about your interactions with other IT professionals.
+#### 8, Who are all the different people you interact with in your work? Please tell us about them. & Please tell us about your interactions with other IT professionals.
  
 When I work, I will deal with the front desk business personnel and other developers. The purpose of dealing with the business personnel is to determine the requirements, while dealing with other developers involves the cooperation between the front desk and the background.
  
  
- 9, What about your interactions with clients or investors?
+#### 9, What about your interactions with clients or investors?
 As a back-end worker, I don't often deal with clients and investors.
  
-10, What aspects of your work do you spend most time on? Please tell us about these.
+#### 10, What aspects of your work do you spend most time on? Please tell us about these.
 The most time-consuming is the processing of data.
  
-11, Which aspects of your work do you find most challenging?
+#### #### 11, Which aspects of your work do you find most challenging?
 The most challenging aspect is the abstract modeling of data, which tests the combination of data, model and real-world understanding. The premise is to be familiar with the programming language of enterprise requirements. I need to use java when I work in my enterprise. But in my study career, my main learning programming languages are Python and C++. So, I also spent a lot of time learning and mastering the Java language.
  
-12, Finally, can you share an example of the work you do that best captures the essence of the IT industry?
+#### 12, Finally, can you share an example of the work you do that best captures the essence of the IT industry?
 The essence of the IT industry is to serve our life in a more modern and intelligent way, such as customizing personalized services for each customer and improving user experience.
  
 In summary, through an interview with my sister. I learned that there are many types of jobs in the IT industry. Each type of IT worker has its own clear division of labor. It's not just programming that counts as IT type of work. Just like my sister, she was not good at communicating with customers, so she chose the backstage type of work. Although there are differences in the types of work, they are all contributing to the society through our own efforts. The competition pressure of the IT industry is very big, and workers need to maintain a high level of work and sufficient professional knowledge reserves at all times. As an IT industry worker, they need to make progress all the time to ensure that they will not be eliminated. Finally, I would like to send my sincere thanks to my sister. Be grateful to her for taking time out of her busy schedule to accept my interview.
@@ -144,25 +176,25 @@ Reference Websites
 
    The cybersecurity field can be separated into a few distinct areas, the coordination of which within the association is crucial to the achievement of an online protection program. These areas incorporate the following:
 
-### 1.Information or data security
-### 2.Network security
-### 3.Disaster recovery/business continuity planning
-### 4.Operational security
-### 5.oud security
-### 6.Critical infrastructure security
-### 7.Physical security
-### 8..End-user education
+#### 1.Information or data security
+#### 2.Network security
+#### 3.Disaster recovery/business continuity planning
+#### 4.Operational security
+#### 5.oud security
+#### 6.Critical infrastructure security
+#### 7.Physical security
+#### 8..End-user education
 
    Keeping up online protection in a continually advancing danger scene is a test for all organizations. Conventional receptive methodologies, in which assets were set toward securing frameworks against the greatest known dangers, while lesser realized dangers were undefended, is not, at this point, an adequate strategy. To stay aware of changing security hazards, a more proactive and versatile methodology is important. A few key network protection warning associations offer direction. For example, the National Institute of Standards and Technology (NIST) recommends adopting continuous monitoring and real-time assessments as part of a risk assessment framework to defend against known and unknown threats (Shea, 2019). The benefits of implementing and maintaining cybersecurity practices include:
    
-### 1.Business insurance against cyberattacks and information breaks.
-### 2.Security for information and organizations.
-### 3.Prevention of unapproved client access.
-### 4.Improved recuperation time after a breach.
-### 5.Insurance for end clients and endpoint gadgets.
-### 6.Administrative consistency.
-### 7.Business coherence.
-### 8.Improved trust in the organization's reputation and trust for engineers, shareholders, clients, partners, and workers.
+#### 1.Business insurance against cyberattacks and information breaks.
+#### 2.Security for information and organizations.
+#### 3.Prevention of unapproved client access.
+#### 4.Improved recuperation time after a breach.
+#### 5.Insurance for end clients and endpoint gadgets.
+#### 6.Administrative consistency.
+#### 7.Business coherence.
+#### 8.Improved trust in the organization's reputation and trust for engineers, shareholders, clients, partners, and workers.
 
    Cybersecurity is consistently being challenged by hackers, data loss, privacy, risk management and changing cybersecurity strategies. The quantity of cyberattacks is not expected to diminish in the coming years. In addition, increased entry points for attacks, for example, with the intervention of the Internet of Things (IoT), increase the need to secure organizations and data frameworks.
    Perhaps the most dangerous component of cybersecurity is the developing idea of safety hazards. As new technologies arise, and as innovation is utilized in new or various manners, new assault roads are created. Staying aware of these successive changes and advances in attacks, as well as updating practices to protect against them, can be challenging. Issues incorporating guaranteeing all components of cybersecurity are safe, must continually update to secure against possible weaknesses. This can be particularly hard for more smaller companies without the staff or in-house assets.
@@ -371,6 +403,53 @@ Skills:
 The product would support 4 million households to start with in Victoria and more than 100,000 businesses with free products and services at the same time reducing states and on a bigger level Australia’s energy consumption.
 
 
+# Group reflection
+
+### S3643565’s Group Reflection
+Our group was formed to complete an assignment titled ‘The IT World”. The assignment was to write about different aspects of the IT world like what career paths are we after, what skills needed, talk about IT Works, coming up with a new project idea and discussing some of the IT technologies that are in the market today. At first, we formed a group on MS Teams, then we all got to know each other. At the beginning, all of us were a bit inactive as everyone was busy, but finally we all came together and divided each of our works. We managed to finish the assignment just before the deadline. The deadline of the assignment got extended for which we started to delay our work but then we worked together as a team and completed the assignment. There was a lack of communication between the group members but some of us managed to bring the whole team together by communicating personally with each other and planned on how to carry out the assignment and get the job done by the due date. I would like to advise my group mates to be a bit more active during group meetings and engage more in the group chats. All in all, the team did a good job and I am satisfied by the group's effort.
+
+### S3774607’s Group Reflection
+Each team member has taken their roles on board and is making a genuine contribution to the team. Earlier there were some communication gaps but the team coped up well at the end and completed all the assigned tasks together.
+
+Communication and frequency of meetings could be improved.
+
+The outcome of work and length of the assignment surprised us.
+
+
+### S3886233’s group reflection 
+
+About my group reflection, For me, I was very confused about how to do the assignment. Because the introduction is so long. And it has different parts. After team members helped, I finally understood what assignment is, and how to do it. Also online teamwork is a little bit difficult, because  we might have different timetables,the network problem and communication problems. Luckly, we distribute different parts successfully. We lost some time at first, but our team members  and I are very passionate and active at the last moment. Finally, we finished the assignment. I feel I have many things to learn, like reading, IT, basic knowledge, and teamwork. 
+I hope i can do teamwork better.
+
+
+## S3794027
+Introduction
+Last week, I had to take part in Assignment 2 to discuss with my team members and complete the task. We completed Assignment 2 by using Teams online communication to assign tasks.
+ 
+Description
+The Assignment 2 due date is May 5. We received the assignment as early as April, but the lack of communication made me start to prepare for assignment 2 in the last week.I did not actively participate in the discussion of the team. I just read the messages on the teams occasionally. I was always so passive that the team members thought that I did not say anything in the last few weeks. Although I also participated in the group's online voice discussion, I didn't get any useful arrangement, so I didn't get the task quickly and kept waiting for the arrangement of others in the group.
+ 
+Feelings
+Assignment 2 is a huge work, I was very worried about whether I can finish my task before the due time. But in the end I rushed through it.
+ 
+Evaluation
+I think our group has done a good job in the assignment of tasks. We are all willing to do the assigned work. There are not too many disputes in the discussion to promote us to complete the assignment faster within a limited time.But there are also some things that need to be improved, such as we should have more communication and have good leaders to arrange tasks.
+
+## S3838032’s Group reflection
+
+When our group had been established. Tianlang Huang initially created our group chat. And then he added all of us into this group chat. It was a smooth progress in the early stage of our assignment. Both the group members Xingyu Zhou and Tianlang Huang have a steady attendance rate in group chat.Because we each have a lot of other assignments in the middle, so the progress of our homework is relatively slow.
+What needs to be improved is that our group is relatively slow in finishing our assignment. We didn't finish nearly all of it until the day before the due date.
+One thing that was surprising is when we assigned tasks in the early stage, most of the students directly chose the part to be completed.Another very good news is that in the end, all of our students have completed their respective parts.
+Through this assignment, I understand how to be a team leader and how to help my teammates as a leader. I think it's very useful for my future.
+In the end, I think the most important thing we need to improve in our team is the cooperation ability of our teammates.
+
+
+
+
+
+
+
+
 
 
 
@@ -396,6 +475,4 @@ The product would support 4 million households to start with in Victoria and mor
 
 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
