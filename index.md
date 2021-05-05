@@ -10,6 +10,10 @@ Student number:s3886233
 email:s3886233@student.rmit.edu.au
 My name is Tianlang Huang, I am 20, This is my first year in RMIT university. I feel very excited. My favourite sport is basketball. My wish is to finish assignment 2!
 
+Abu Shafin Solaiman
+S3643565
+S3643565@student.rmit.edu.au
+I am an international student studying Bachelor of Business Information Systems here at RMIT University in Melbourne, Australia. Currently, I am in my final year final semester. My nationality is Bangladeshi, my mother tongue is Bangla and English is my second language. Before starting my Bachelor’s, I gave my IGCSE and IAL in Bangladesh under British Council. At my leisure times, I usually go beach hopping as I love to sit in front of the ocean and listen to some chilled music all by myself. Other than that, I love playing football and playing PC games like Call of Duty.
 
 
 
