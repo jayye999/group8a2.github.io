@@ -317,34 +317,34 @@ Every user can be seen, edited, deleted and updated within this tab. This is onl
  
 Tools used in the development would be:
  
-Vaadin - Vaadin is an open-source platform for web application development. The Vaadin Platform includes a set of web components, a Java web framework, and a set of tools and application starters. Its flagship product, Vaadin Platform allows the implementation of HTML5 web user interfaces using the Java programming language.​
-​
-https://en.wikipedia.org/wiki/Vaadin​
+Vaadin - Vaadin is an open-source platform for web application development. The Vaadin Platform includes a set of web components, a Java web framework, and a set of tools and application starters. Its flagship product, Vaadin Platform allows the implementation of HTML5 web user interfaces using the Java programming language.
+
+https://en.wikipedia.org/wiki/Vaadin
  
 Springboot - The Spring Framework is an application framework and inversion of control containers for the Java platform. The framework's core features can be used by any Java application, but there are extensions for building web applications on top of the Java EE platform.​
-​
+
 https://en.wikipedia.org/wiki/Spring_Framework
  
 Mongo DB - MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server-Side Public License.​
-​
+
 https://en.wikipedia.org/wiki/MongoDB​
 Elastic Beanstalk -AWS Elastic Beanstalk is an orchestration service offered by Amazon Web Services for deploying applications which orchestrates various AWS services, including EC2, S3, Simple Notification Service, CloudWatch, autoscaling, and Elastic Load Balancers.​
-​
-https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk​
- 
+
+https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk
+
 Circle CI-CircleCI is a modern continuous integration and continuous delivery (CI/CD) platform. The CircleCI Enterprise solution is installable inside your private cloud or data center and is free to try for a limited time. CircleCI automates build, test, and deployment of software.​
-https://circleci.com/docs/enterprise/overview/​
+https://circleci.com/docs/enterprise/overview/
  
 JUnit5- JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM. This includes focusing on Java 8 and above, as well as enabling many different styles of testing.​
-·     ​
-https://junit.org/junit5/​
+·     
+https://junit.org/junit5/
  
-Selenium- Selenium is a portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language.​
-·     ​
-https://en.wikipedia.org/wiki/Selenium_(software)​
+Selenium- Selenium is a portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language.
+·     
+https://en.wikipedia.org/wiki/Selenium_(software)
  
 Confluence- Confluence is a web-based corporate wiki developed by Australian software company Atlassian. Atlassian wrote Confluence in the Java programming language and first published it in 2004. Confluence Standalone comes with a built-in Tomcat web server and hsql database, and also supports other databases.​
-https://en.wikipedia.org/wiki/Confluence_(software)​
+https://en.wikipedia.org/wiki/Confluence_(software)
 Skills:
 ·       Product Owner
 ·       Scrum master
