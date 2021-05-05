@@ -16,20 +16,21 @@
 
 # Team profile
 
-Xingyu Zhou. Student number is S3838032 and my student e-mail address is S3838032@student.rmit.edu.au. Nationality is China. I graduated from RMIT Diploma of Commerce in 2020. Before I graduate from Brighton Secondary College in 2019. I like to focus on soccer news, read books, play phone games and listen to music when I have free time. I also have a lovable ragdoll named Xiaoxiaoyu. I don't have much IT experience, At present, most IT experience is limited to the knowledge learned in school. My ideal job is to become a game designer in the future.
+#### Xingyu Zhou.
+Student number is S3838032 and my student e-mail address is S3838032@student.rmit.edu.au. Nationality is China. I graduated from RMIT Diploma of Commerce in 2020. Before I graduate from Brighton Secondary College in 2019. I like to focus on soccer news, read books, play phone games and listen to music when I have free time. I also have a lovable ragdoll named Xiaoxiaoyu. I don't have much IT experience, At present, most IT experience is limited to the knowledge learned in school. My ideal job is to become a game designer in the future.
 From the result of Myers Briggs Type Indicator Test. It says my type is Advocates. The result of the Big Five Personality Test shows that I am an introverted person. The result of the Online Learning Style test shows that I am a visual learner. I agree with the results of the above three tests.I will help the people around me within my ability. I’m very good at understanding other people. But I’m very reluctant to do things that go against my heart. 
 
-Name:Tianlang Huang.
+#### Tianlang Huang.
 Student number:s3886233
 email:s3886233@student.rmit.edu.au
 My name is Tianlang Huang, I am 20, This is my first year in RMIT university. I feel very excited. My favourite sport is basketball,and I like playing games, this is one of the reasons that I choose IT to be my degree.My wish is to finish assignment 2!
 
-Abu Shafin Solaiman
+#### Abu Shafin Solaiman
 S3643565
 S3643565@student.rmit.edu.au
 I am an international student studying Bachelor of Business Information Systems here at RMIT University in Melbourne, Australia. Currently, I am in my final year final semester. My nationality is Bangladeshi, my mother tongue is Bangla and English is my second language. Before starting my Bachelor’s, I gave my IGCSE and IAL in Bangladesh under British Council. At my leisure times, I usually go beach hopping as I love to sit in front of the ocean and listen to some chilled music all by myself. Other than that, I love playing football and playing PC games like Call of Duty.
 
-Abhiraj Singh
+#### Abhiraj Singh
 S3774607
 S3774607@student.rmit.edu.au
 I am an international student studying
@@ -40,6 +41,7 @@ under a company working for the government under the VEU program. This year I
 have started my own business and have become and Accredited Provider like the
 company I used to work in. In my free times, I read about the latest technology, research about new cars and go on drives.
 
+#### Zelong Liu
 S3774607@student.rmit.edu.au
 I am an international student studying
 Bachelor of Information Technology here at Royal Melbourne Institute of  Technology. I am 19 years old,I am originally
