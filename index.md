@@ -353,7 +353,8 @@ Skills:
 ·       Tester
 
 
-## Outcome: The product would support 4 million households to start with in Victoria and more than 100,000 businesses with free products and services at the same time reducing states and on a bigger level Australia’s energy consumption.
+## Outcome:
+The product would support 4 million households to start with in Victoria and more than 100,000 businesses with free products and services at the same time reducing states and on a bigger level Australia’s energy consumption.
 
 
 
