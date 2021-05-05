@@ -1,6 +1,6 @@
-## Group 8  Assignment2
+# Group 8  Assignment2
 
-## Team profile
+# Team profile
 
 Xingyu Zhou. Student number is S3838032 and my student e-mail address is S3838032@student.rmit.edu.au. Nationality is China. I graduated from RMIT Diploma of Commerce in 2020. Before I graduate from Brighton Secondary College in 2019. I like to focus on soccer news, read books, play phone games and listen to music when I have free time. I also have a lovable ragdoll named Xiaoxiaoyu. I don't have much IT experience, At present, most IT experience is limited to the knowledge learned in school. My ideal job is to become a game designer in the future.
 From the result of Myers Briggs Type Indicator Test. It says my type is Advocates. The result of the Big Five Personality Test shows that I am an introverted person. The result of the Online Learning Style test shows that I am a visual learner. I agree with the results of the above three tests.I will help the people around me within my ability. I’m very good at understanding other people. But I’m very reluctant to do things that go against my heart. 
@@ -8,7 +8,7 @@ From the result of Myers Briggs Type Indicator Test. It says my type is Advocate
 
 
 
-## Industry Data
+# Industry Data
 What are the Job Titles for your group's ideal jobs? How do each of these rank in terms of demand from employers?
 The job titles for our group’s ideal jobs are Business Analyst, IT Project Manager, Data Science and Cloud system engineer.
 Business Analysts play a crucial part in assisting organizations with fixing obsolete cycles and implementing new technology. They are sought after in each space of business, from money to IT to corporate administration. As data collection increases and innovation keeps on creating, the job of the IT business analyst is extending also. Job descriptions are developing beyond IT and software to include business components with the ability to focus on the strategy aspect of their roles – and this transition presents a spike in career opportunities. The Bureau of Labour Statistics gauges the requirement for business analysts to rise 14% by 2024. Hence, they are in demand by employers (5 In-Demand Career Paths for Business Analysts, 2021).
@@ -27,7 +27,7 @@ Yes, having looked at the Burning Glass data, my opinion about my ideal job has 
 
 
 
-```IT works
+IT works
 For this question, I interviewed my elder sister. She has a master's degree in IT from Shanghai Jiao Tong University. She does data analysis in the information security department of the Agricultural Bank of China. Currently engaged in information technology related work. Through the following questions, I interviewed her feelings about the IT industry and her work. Because she is more introverted and pays attention to personal privacy, so refused to record the request. But I recorded what she said and translated it into English.
 1, What kind of work is done by the IT professional?
 In my opinion, there are many directions in the work of the IT industry, and each direction has a different way of working.
@@ -81,7 +81,7 @@ In summary, through an interview with my sister. I learned that there are many t
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### IT Technologies
+# IT Technologies
 
 ##Autonomous vehicles
 Most people first heard about autonomous vehicles in the last 10 years. In fact, as early as the early 20th century, people began to study unmanned driving technology. The concept of an autonomous car dates back to Futurama, an exhibit at the 1939 New York World’s Fair. (Bonnie Gringer) After that, more prototypes of autonomous vehicles have been developed. These early prototypes demonstrated the technical feasibility of autonomous driving, but their high cost and low demand for such functions led to the fact that autonomous vehicles were not popular at that time. The safety and driving speed of the early autonomous vehicles were not as good as ordinary cars. In the 21st century, because all aspects of technology have been greatly developed and the U.S. government's strong interest in autonomous vehicles leads to the unprecedented development speed of driverless cars in the 21st century. After 2010, Google has launched many prototype cars of autonomous vehicles, which makes autonomous vehicles known to most people.
@@ -103,16 +103,37 @@ Secondly, it can help people reduce traffic accidents. The House Energy and Comm
 Thirdly, it can significantly improve the driving experience of drivers, especially long-distance drivers. Drivers of ordinary vehicles need to keep their concentration at all times when driving them. If you are in an autonomous vehicle, then the driver does not need to do extra operation on the vehicle. So that you can enjoy it instead of focusing on it all the time.
 Fourthly, autonomous vehicles can reduce Co2 emissions compared to normal cars. As mentioned in the previous paragraph, autonomous vehicles can save time and reduce traffic accidents. These will reduce the possibility of traffic congestion. Plus, the computer's precise control of the car's movement. The Future of Driving report from Ohio University states: "Since software will drive the car, the modern vehicle can now be programmed to reduce emissions to the maximum extent possible. The transition to the new-age cars is expected to contribute to a 60% fall in emissions." (Pete Goldin 2018) Reducing carbon dioxide emissions means that our journey becomes more environmentally friendly. For the global sustainable development plan, this technology is undoubtedly good news.
 
-For autonomous vehicles, the biggest competitor is traditional cars. The idea of driverless vehicles is to achieve the goal of driverless mainly relying on the intelligent driver with a computer system in the vehicle. But traditional cars need someone to drive them. If autonomous vehicles are widely launched in the future, it is likely to hit the existing traditional automobile industry. There may be a lot of people who give up choosing traditional cars and choose autonomous vehicles.
-For me, I'm not in a rush to choose a driverless car. At present, there are still some hidden dangers in autonomous vehicles. Autonomous vehicle is operated by the computer system's time operation. These systems are vulnerable to deliberate attacks. The specific targets of these attacks are to interfere with AI systems and destroy key safety functions. (Help net security, 02/17/2017). Secondly, autonomous vehicles have no way to deal with many emergencies. Therefore, the safety of autonomous vehicles still needs to be further improved. If autonomous vehicles have made great progress in safety in the future, then I will consider choosing autonomous vehicles.
+    For autonomous vehicles, the biggest competitor is traditional cars. The idea of driverless vehicles is to achieve the goal of driverless mainly relying on the intelligent driver with a computer system in the vehicle. But traditional cars need someone to drive them. If autonomous vehicles are widely launched in the future, it is likely to hit the existing traditional automobile industry. There may be a lot of people who give up choosing traditional cars and choose autonomous vehicles.
+    For me, I'm not in a rush to choose a driverless car. At present, there are still some hidden dangers in autonomous vehicles. Autonomous vehicle is operated by the computer system's time operation. These systems are vulnerable to deliberate attacks. The specific targets of these attacks are to interfere with AI systems and destroy key safety functions. (Help net security, 02/17/2017). Secondly, autonomous vehicles have no way to deal with many emergencies. Therefore, the safety of autonomous vehicles still needs to be further improved. If autonomous vehicles have made great progress in safety in the future, then I will consider choosing autonomous vehicles.
 
 Reference Websites
-https://pace.coe.int/en/news/7999/-autonomous-vehicles-towards-regulation-in-line-with-council-of-europe-standards
-https://www.titlemax.com/resources/history-of-the-autonomous-car/
-https://www.landmarkdividend.com/self-driving-car/
-https://www.itsdigest.com/10-advantages-autonomous-vehicles
-https://www.helpnetsecurity.com/2021/02/17/cybersecurity-autonomous-vehicles/
-https://www.siliconrepublic.com/machines/boring-company-autonomous-public-test
+(https://pace.coe.int/en/news/7999/-autonomous-vehicles-towards-regulation-in-line-with-council-of-europe-standards)
+(https://www.titlemax.com/resources/history-of-the-autonomous-car/)
+(https://www.landmarkdividend.com/self-driving-car/)
+(https://www.itsdigest.com/10-advantages-autonomous-vehicles)
+(https://www.helpnetsecurity.com/2021/02/17/cybersecurity-autonomous-vehicles/)
+(https://www.siliconrepublic.com/machines/boring-company-autonomous-public-test)
+
+# Cybersecurity
+
+PC security, cybersecurity, or data innovation security (IT security) is the insurance of PC frameworks and organizations from data exposure, robbery of or harm to their equipment, programming, or electronic information, just as from the interruption or confusion of the servers they give. A cybersecurity analyst can only work for cybersecurity. These Cybersecurity analyst experts (additionally called data security investigators) plan and complete safety efforts to ensure an organization's PC organizations and frameworks, as indicated by the Bureau of Labour Statistics BLS (Malvik, 2020). They keep steady tabs on dangers and screen their association's organizations for any breaks in security. The field is becoming increasingly significant due to the increased reliance on computer systems, the Internet and wireless network standards such as Bluetooth and Wi-Fi, including smartphones, televisions, and the various devices that constitute the "Internet of things". There are heaps of ways hackers can use and adapt even the most harmless data. Through identity theft, capturing tax refunds or in any event, taking health care coverage for clinical service, cyber criminals come up with all sorts of creative ways to profit from information most people don’t take sufficient lengths to protect. This makes everyone a target. Owing to its complexity, both in terms of politics and technology, cybersecurity is also one of the major challenges in the contemporary world. Cyber Security is not dying anytime soon as long as people have access to the internet and have an inspirational perspective as a vocation at present and for what's to come. Fundamentally because of increased attention to digital dangers and assaults, particularly after prominent digital assaults, just as intense deficiencies to fulfill the need for network protection experts.
+
+The cybersecurity field can be separated into a few distinct areas, the coordination of which within the association is crucial to the achievement of an online protection program. These areas incorporate the following:
+
+###1.Information or data security
+###2.Network security
+###3.Disaster recovery/business continuity planning
+###4.Operational security
+###5.oud security
+###6.Critical infrastructure security
+###7.Physical security
+###8.End-user education
+
+      Keeping up online protection in a continually advancing danger scene is a test for all organizations. Conventional receptive methodologies, in which assets were set toward securing frameworks against the greatest known dangers, while lesser realized dangers were undefended, is not, at this point, an adequate strategy. To stay aware of changing security hazards, a more proactive and versatile methodology is important. A few key network protection warning associations offer direction. For example, the National Institute of Standards and Technology (NIST) recommends adopting continuous monitoring and real-time assessments as part of a risk assessment framework to defend against known and unknown threats (Shea, 2019). The benefits of implementing and maintaining cybersecurity practices include:
+
+
+
+
 
 
 
