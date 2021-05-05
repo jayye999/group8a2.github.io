@@ -160,7 +160,7 @@ Thirdly, it can significantly improve the driving experience of drivers, especia
   For autonomous vehicles, the biggest competitor is traditional cars. The idea of driverless vehicles is to achieve the goal of driverless mainly relying on the intelligent driver with a computer system in the vehicle. But traditional cars need someone to drive them. If autonomous vehicles are widely launched in the future, it is likely to hit the existing traditional automobile industry. There may be a lot of people who give up choosing traditional cars and choose autonomous vehicles.
    For me, I'm not in a rush to choose a driverless car. At present, there are still some hidden dangers in autonomous vehicles. Autonomous vehicle is operated by the computer system's time operation. These systems are vulnerable to deliberate attacks. The specific targets of these attacks are to interfere with AI systems and destroy key safety functions. (Help net security, 02/17/2017). Secondly, autonomous vehicles have no way to deal with many emergencies. Therefore, the safety of autonomous vehicles still needs to be further improved. If autonomous vehicles have made great progress in safety in the future, then I will consider choosing autonomous vehicles.
 
-Reference Websites
+##### Reference Websites
 (https://pace.coe.int/en/news/7999/-autonomous-vehicles-towards-regulation-in-line-with-council-of-europe-standards)
 (https://www.titlemax.com/resources/history-of-the-autonomous-car/)
 (https://www.landmarkdividend.com/self-driving-car/)
@@ -210,7 +210,7 @@ Securing my wireless network at your business or home
 Backing up my data
 
    
-   References
+##### References
 Ecpi.edu. 2021. How Does Cyber Security Work to Keep Us Safe?. [online] Available at: <https://www.ecpi.edu/blog/how-does-cyber-security-work-to-keep-us-safe> [Accessed 2 May 2021].
 Germain, J., 2021. The Future of Cybersecurity in 2021 and Beyond | Cybersecurity | TechNewsWorld. [online] Technewsworld.com. Available at: <https://www.technewsworld.com/story/87018.html> [Accessed 2 May 2021].
 Malvik, C., 2020. Everything You Need to Know About Becoming a Cyber Security Analyst. [online] Rasmussen.edu. Available at: <https://www.rasmussen.edu/degrees/technology/blog/becoming-cyber-security-analyst/#:~:text=Cyber%20security%20analysts%20(also%20called,systems%2C%20according%20to%20the%20BLS.&text=They%20keep%20constant%20tabs%20on,for%20any%20breaches%20in%20security.> [Accessed 1 May 2021].
@@ -239,7 +239,7 @@ Blockchains continue to grow, and once new blocks are added to the blockchain, t
  
    The application of more blockchain technology will change my daily life. I probably don't need a lot of personal certification. The tampering nature of the blockchain fundamentally changes this situation. Birth certificates, house ownership certificates and marriage certificates can all be notarized on the blockchain and become something that is trusted globally. Travel consumption is more convenient. We often use apps to find hotels and other services, and the platforms get a cut of that. Blockchain applications are designed to remove intermediaries and create a secure, decentralized way for service providers and customers to connect and transact directly. 
   
-References lists:
+##### References lists:
 Eyal I, Gencer A E, Sirer E G, et al. Bitcoin-NG: A scalable blockchain protocol [C]. Santa Clara: USENIX NSDI, 2016. https://www.oalib.com/paper/4053537#.YJJ-47UzZPY
 Mearian, L, APR 24, 2017. What is blockchain and how can it help businesses? IDG Communications, Inc. https://www.csoonline.com/article/3191619/faq-what-is-blockchain-and-how-can-it-help-business.html
 Marvin, R, AUG 29, 2017.Blockchain: The Invisible Technology That's Changing the World. PC MAG. https://www.pcmag.com/news/blockchain-the-invisible-technology-thats-changing-the-world
@@ -271,7 +271,7 @@ So what is Cloud technology? Cloud computing is the delivery of many services th
 
  
 
-Reference: (https://www.investopedia.com/terms/c/cloud-computing.asp)(FRANKENFIELD,2020)
+##### Reference: (https://www.investopedia.com/terms/c/cloud-computing.asp)(FRANKENFIELD,2020)
 
 (https://www.monroyits.com/2020/03/12/how-were-expecting-artificial-intelligence-to-influence-cloud-computing-in-2020/)( EZmarketing ,2020)
 
@@ -310,15 +310,13 @@ Afterwards an online appointment will be created which shows the user how the pr
 
 ## The stages include:-
  
-## 1) Register: When the user is interested in the scheme, they can easily register by putting the details put to sign up and select a password for the account setup. The site will then ask the appliances they are interested in getting replaced. All the selected preferences would be saved alongside the replacement products.
+#### 2) Approval from Accredited provider to upgrade: This will then go through the backend process to get an accredited providers approval for the upgrade of existing product. Once the approvals are achieved
  
-## 2) Approval from Accredited provider to upgrade: This will then go through the backend process to get an accredited providers approval for the upgrade of existing product. Once the approvals are achieved
+#### 3) Appointment: After the approval an appointment call or email would be made to the user for setting up a time with the required installer. If the appointment is successful, the site would give out the details of the selected installer.
  
-## 3) Appointment: After the approval an appointment call or email would be made to the user for setting up a time with the required installer. If the appointment is successful, the site would give out the details of the selected installer.
+#### 4) Installation: Products would be physically installed by the installer.
  
-## 4) Installation: Products would be physically installed by the installer.
- 
-## 5) Warranty: All the warranty, installations and terms and conditions would be updated to the account which can be accessed anytime later.
+#### 5) Warranty: All the warranty, installations and terms and conditions would be updated to the account which can be accessed anytime later.
  
 The site after the appointment would remove any recommendations or tabs related to the product already installed.  
  
@@ -363,32 +361,32 @@ Tools used in the development would be:
  
 Vaadin - Vaadin is an open-source platform for web application development. The Vaadin Platform includes a set of web components, a Java web framework, and a set of tools and application starters. Its flagship product, Vaadin Platform allows the implementation of HTML5 web user interfaces using the Java programming language.
 
-https://en.wikipedia.org/wiki/Vaadin
+##### https://en.wikipedia.org/wiki/Vaadin
  
 Springboot - The Spring Framework is an application framework and inversion of control containers for the Java platform. The framework's core features can be used by any Java application, but there are extensions for building web applications on top of the Java EE platform.​
 
-https://en.wikipedia.org/wiki/Spring_Framework
+##### https://en.wikipedia.org/wiki/Spring_Framework
  
 Mongo DB - MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server-Side Public License.​
 
-https://en.wikipedia.org/wiki/MongoDB​
+##### https://en.wikipedia.org/wiki/MongoDB​
 Elastic Beanstalk -AWS Elastic Beanstalk is an orchestration service offered by Amazon Web Services for deploying applications which orchestrates various AWS services, including EC2, S3, Simple Notification Service, CloudWatch, autoscaling, and Elastic Load Balancers.​
 
-https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk
+##### https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk
 
 Circle CI-CircleCI is a modern continuous integration and continuous delivery (CI/CD) platform. The CircleCI Enterprise solution is installable inside your private cloud or data center and is free to try for a limited time. CircleCI automates build, test, and deployment of software.​
-https://circleci.com/docs/enterprise/overview/
+##### https://circleci.com/docs/enterprise/overview/
  
 JUnit5- JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM. This includes focusing on Java 8 and above, as well as enabling many different styles of testing.​
 ·     
-https://junit.org/junit5/
+##### https://junit.org/junit5/
  
 Selenium- Selenium is a portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language.
 ·     
-https://en.wikipedia.org/wiki/Selenium_(software)
+##### https://en.wikipedia.org/wiki/Selenium_(software)
  
 Confluence- Confluence is a web-based corporate wiki developed by Australian software company Atlassian. Atlassian wrote Confluence in the Java programming language and first published it in 2004. Confluence Standalone comes with a built-in Tomcat web server and hsql database, and also supports other databases.​
-https://en.wikipedia.org/wiki/Confluence_(software)
+##### https://en.wikipedia.org/wiki/Confluence_(software)
 Skills:
 ·       Product Owner
 ·       Scrum master
@@ -420,7 +418,7 @@ About my group reflection, For me, I was very confused about how to do the assig
 I hope i can do teamwork better.
 
 
-## S3794027
+## S3794027's group reflection
 Introduction
 Last week, I had to take part in Assignment 2 to discuss with my team members and complete the task. We completed Assignment 2 by using Teams online communication to assign tasks.
  
