@@ -5,6 +5,12 @@
 Xingyu Zhou. Student number is S3838032 and my student e-mail address is S3838032@student.rmit.edu.au. Nationality is China. I graduated from RMIT Diploma of Commerce in 2020. Before I graduate from Brighton Secondary College in 2019. I like to focus on soccer news, read books, play phone games and listen to music when I have free time. I also have a lovable ragdoll named Xiaoxiaoyu. I don't have much IT experience, At present, most IT experience is limited to the knowledge learned in school. My ideal job is to become a game designer in the future.
 From the result of Myers Briggs Type Indicator Test. It says my type is Advocates. The result of the Big Five Personality Test shows that I am an introverted person. The result of the Online Learning Style test shows that I am a visual learner. I agree with the results of the above three tests.I will help the people around me within my ability. I’m very good at understanding other people. But I’m very reluctant to do things that go against my heart. 
 
+Name:Tianlang Huang.
+Student number:s3886233
+email:s3886233@student.rmit.edu.au
+My name is Tianlang Huang, I am 20, This is my first year in RMIT university. I feel very excited. My favourite sport is basketball. My wish is to finish assignment 2!
+
+
 
 
 
