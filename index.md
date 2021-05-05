@@ -135,10 +135,6 @@ In summary, through an interview with my sister. I learned that there are many t
 
 
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 # IT Technologies
 
 ## Autonomous vehicles
