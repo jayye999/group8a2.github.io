@@ -111,7 +111,7 @@ Specifically, it is to do the data analysis work of the banking industry, which 
 #### 6, Please tell us about the industry you work in.
 The Agricultural Bank of China I work for is one of the five largest banks in China. As a traditional large enterprise, it pays more attention to security than the general small and medium-sized enterprises. We attach great importance not only to the security of customer information, but also to the security of enterprise information.
  
-#### #### 7, What other kinds of work do you have to do?
+#### 7, What other kinds of work do you have to do?
 My job is to help front desk staff better serve customers through data analysis. Occasionally there will be development tasks assigned to me.
  
 #### 8, Who are all the different people you interact with in your work? Please tell us about them. & Please tell us about your interactions with other IT professionals.
@@ -125,7 +125,7 @@ As a back-end worker, I don't often deal with clients and investors.
 #### 10, What aspects of your work do you spend most time on? Please tell us about these.
 The most time-consuming is the processing of data.
  
-#### #### 11, Which aspects of your work do you find most challenging?
+#### 11, Which aspects of your work do you find most challenging?
 The most challenging aspect is the abstract modeling of data, which tests the combination of data, model and real-world understanding. The premise is to be familiar with the programming language of enterprise requirements. I need to use java when I work in my enterprise. But in my study career, my main learning programming languages are Python and C++. So, I also spent a lot of time learning and mastering the Java language.
  
 #### 12, Finally, can you share an example of the work you do that best captures the essence of the IT industry?
