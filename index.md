@@ -176,7 +176,7 @@ So what is Cloud technology? Cloud computing is the delivery of many services th
    
    Artificial intelligence is always a controversial technology. Cloud and artificial intelligence have close relationships. Artificial intelligence and cloud computing can work together to become AI cloud computing.What is AI cloud computing?   AI cloud computing is the merging of the machine learning capabilities of artificial intelligence with cloud-based computing environments, making intuitive, connected experiences possible. For example, you can find AI assistants Siri, Amazon Alexa combine a seamless flow of artificial intelligence technology and cloud-based computing resources to help people to make purchases,adjust thermostat and find your favourite song. The combination of AI and cloud computing is changing the world. Firstly, AI can change the experience of users.It means users can get high-quality services. AI cloud computing will know customers very well,because it can catch data from users,it means AI can be helpful with different people. Secondly,Artificial intelligence is being used in boring ,repetitive,complicated missions. That will promote productivity efficiently. At the same time, artificial intelligence is replacing people that help corporations to save money.Thirdly, AI cloud computing has the ability to deal with big data, it means AI can make predictions and automate complexity. It helps companies forecast stock portfolios,estate investment. Even can help the government to predict diseases( EZmarketing ,2020)
    
-   ### What is the likely impact?
+### What is the likely impact?
    
    As I mentioned before, cloud computing is related to saving and sharing, and saving and sharing functions are related to security. Because of cloud technology, cybersecurity will become an important place. The famous privacy loophole of  facebook  remains that we should take care of  cloud saving and sharing.And servers should provide privacy policy.Because privacy is very important to ourselves,every one of us should be respected. How to protect information correctly from stealing,privacy invasion is being a problem.
    
@@ -185,7 +185,7 @@ So what is Cloud technology? Cloud computing is the delivery of many services th
    As I mentioned earlier, Al computing is potential and powerful in the serving industry. It can reduce the cost of serving and improve productivity. People whose jobs are related to serving may have a change. Because manpower is replaced by powerful machine productivity.
    
    
-   ### How will this affect me?
+### How will this affect me?
 
    For me, being a student, I feel cloud technology is around my life. I use gmail,outlook,google drive,and onedrive when I am studying. Even when I play games, I will put the game file on the cloud. Cloud technology has become one of the parts of my life. It is very convenient and useful. The development of cloud technology makes me very excited.Especially the cloud game part and Artificial technology. When we are enjoying the services by cloud computing, we also have some problems. The information security, privacy invasion. The server should provide strict protection to users. In conclusion, Cloud technology is potential and  useful.It might change the serving ,hardware and software industry. It can work with many technologies,but it still needs some time to be mature.
 
