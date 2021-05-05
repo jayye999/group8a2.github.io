@@ -125,7 +125,7 @@ Reference Websites
 (https://www.siliconrepublic.com/machines/boring-company-autonomous-public-test)
 
 # Cybersecurity
-
+## WHAT DOES IT DO?
    PC security, cybersecurity, or data innovation security (IT security) is the insurance of PC frameworks and organizations from data exposure, robbery of or harm to their equipment, programming, or electronic information, just as from the interruption or confusion of the servers they give. A cybersecurity analyst can only work for cybersecurity. These Cybersecurity analyst experts (additionally called data security investigators) plan and complete safety efforts to ensure an organization's PC organizations and frameworks, as indicated by the Bureau of Labour Statistics BLS (Malvik, 2020). They keep steady tabs on dangers and screen their association's organizations for any breaks in security. The field is becoming increasingly significant due to the increased reliance on computer systems, the Internet and wireless network standards such as Bluetooth and Wi-Fi, including smartphones, televisions, and the various devices that constitute the "Internet of things". There are heaps of ways hackers can use and adapt even the most harmless data. Through identity theft, capturing tax refunds or in any event, taking health care coverage for clinical service, cyber criminals come up with all sorts of creative ways to profit from information most people don’t take sufficient lengths to protect. This makes everyone a target. Owing to its complexity, both in terms of politics and technology, cybersecurity is also one of the major challenges in the contemporary world. Cyber Security is not dying anytime soon as long as people have access to the internet and have an inspirational perspective as a vocation at present and for what's to come. Fundamentally because of increased attention to digital dangers and assaults, particularly after prominent digital assaults, just as intense deficiencies to fulfill the need for network protection experts.
 
    The cybersecurity field can be separated into a few distinct areas, the coordination of which within the association is crucial to the achievement of an online protection program. These areas incorporate the following:
@@ -152,6 +152,27 @@ Reference Websites
 
    Cybersecurity is consistently being challenged by hackers, data loss, privacy, risk management and changing cybersecurity strategies. The quantity of cyberattacks is not expected to diminish in the coming years. In addition, increased entry points for attacks, for example, with the intervention of the Internet of Things (IoT), increase the need to secure organizations and data frameworks.
    Perhaps the most dangerous component of cybersecurity is the developing idea of safety hazards. As new technologies arise, and as innovation is utilized in new or various manners, new assault roads are created. Staying aware of these successive changes and advances in attacks, as well as updating practices to protect against them, can be challenging. Issues incorporating guaranteeing all components of cybersecurity are safe, must continually update to secure against possible weaknesses. This can be particularly hard for more smaller companies without the staff or in-house assets.
+   
+ ## WHAT IS THE LIKELY IMPACT?
+Cybersecurity is significant because it shields all classes of information from robbery and harm. This incorporates delicate information, personally identifiable information (PII), protected health information (PHI), individual data, protected innovation, information, and administrative and industry data frameworks. Without a network safety program, an association cannot safeguard itself against information break crusades, making it a powerful objective for cybercriminals. Some cybersecurity specialists concur with a report by Cybersecurity Ventures and anticipate that financial damages from cybercrime would reach $6 trillion before the end of this year. Industry studies show that cyberattacks are among the quickest developing crimes in the United States. Robert McKay who happens to be the senior vice-president of risk solutions at Neustar directly quotes that "Cybersecurity experts predict that in 2021 there will be a cyberattack incident every 11 seconds. This is nearly twice what it was in 2019 (every 19 seconds), and four times the rate five years ago (every 40 seconds in 2016)," (Germain, 2021).
+Cybersecurity will create more job opportunities as the digital world is huge and chances of security breach is high, hence, businesses will need someone to monitor and secure such frameworks. Government and big companies would be considered the most impacted with cybersecurity.
+ 
+ ## HOW WILL THIS AFFECT YOU?
+As mentioned previously, cybersecurity provides a secure network for users like us. I am always in fear that my bank details might get leaked or my social media account’s passwords might get hacked. But because of cybersecurity, I am not worried about all those as I am aware that my accounts are well secured. Same case with my parents. My father has multiple bank accounts and because of cybersecurity he is not worried about his accounts being exposed.
+Cyber attackers are not always after money. Digital assaults are getting more perplexing, and new trend hackers are utilizing the onion-layered assault, which includes making assaults utilizing various channels. While you might have the option to uncover one assault, there are different dangers in various and specialized regions, which you will most likely be unable to spot or manage successfully on the grounds that you are tied up battling fires somewhere else. For you to address these difficulties, you will require profound cybersecurity knowledge (How Does Cyber Security Work to Keep Us Safe?, 2021)Therefore, to protect my data, I gained cybersecurity knowledge to help me with:
+Securing my password
+Tips on how to build a reliable and robust password
+Securing my wireless network at your business or home
+Backing up my data
+
+   
+   References
+Ecpi.edu. 2021. How Does Cyber Security Work to Keep Us Safe?. [online] Available at: <https://www.ecpi.edu/blog/how-does-cyber-security-work-to-keep-us-safe> [Accessed 2 May 2021].
+Germain, J., 2021. The Future of Cybersecurity in 2021 and Beyond | Cybersecurity | TechNewsWorld. [online] Technewsworld.com. Available at: <https://www.technewsworld.com/story/87018.html> [Accessed 2 May 2021].
+Malvik, C., 2020. Everything You Need to Know About Becoming a Cyber Security Analyst. [online] Rasmussen.edu. Available at: <https://www.rasmussen.edu/degrees/technology/blog/becoming-cyber-security-analyst/#:~:text=Cyber%20security%20analysts%20(also%20called,systems%2C%20according%20to%20the%20BLS.&text=They%20keep%20constant%20tabs%20on,for%20any%20breaches%20in%20security.> [Accessed 1 May 2021].
+ 
+Shea, S., 2019. What is Cybersecurity? Everything You Need to Know. [online] SearchSecurity. Available at: <https://searchsecurity.techtarget.com/definition/cybersecurity#:~:text=Cybersecurity%20is%20the%20protection%20of,centers%20and%20other%20computerized%20systems.> [Accessed 2 May 2021]. 
+
 
 ## Blockchain and cryptocurrencies
 ### WHAT DOES IT DO?
@@ -174,6 +195,11 @@ Blockchains continue to grow, and once new blocks are added to the blockchain, t
  
    The application of more blockchain technology will change my daily life. I probably don't need a lot of personal certification. The tampering nature of the blockchain fundamentally changes this situation. Birth certificates, house ownership certificates and marriage certificates can all be notarized on the blockchain and become something that is trusted globally. Travel consumption is more convenient. We often use apps to find hotels and other services, and the platforms get a cut of that. Blockchain applications are designed to remove intermediaries and create a secure, decentralized way for service providers and customers to connect and transact directly. 
   
+References lists:
+Eyal I, Gencer A E, Sirer E G, et al. Bitcoin-NG: A scalable blockchain protocol [C]. Santa Clara: USENIX NSDI, 2016. https://www.oalib.com/paper/4053537#.YJJ-47UzZPY
+Mearian, L, APR 24, 2017. What is blockchain and how can it help businesses? IDG Communications, Inc. https://www.csoonline.com/article/3191619/faq-what-is-blockchain-and-how-can-it-help-business.html
+Marvin, R, AUG 29, 2017.Blockchain: The Invisible Technology That's Changing the World. PC MAG. https://www.pcmag.com/news/blockchain-the-invisible-technology-thats-changing-the-world
+
 ## Cloud computing
 ### What does it do?
    Cloud computing or technology, also called cloud, is changing our way to save and share information. People are using Cloud technology everyday even they do not know.
@@ -204,6 +230,131 @@ So what is Cloud technology? Cloud computing is the delivery of many services th
 Reference: (https://www.investopedia.com/terms/c/cloud-computing.asp)(FRANKENFIELD,2020)
 
 (https://www.monroyits.com/2020/03/12/how-were-expecting-artificial-intelligence-to-influence-cloud-computing-in-2020/)( EZmarketing ,2020)
+
+## Project ideas
+ 
+Overview:
+The project Idea our group has come up with is to build a website and at a later stage try a mobile compatible application as well. The site would be named “Energy Savers”. On an overview of our idea, it is a simple site which would help users to save energy just by replacing their existing appliances with new energy saving appliances free of cost. The site would help them calculate their existing energy usage as well as give them a rough estimate of annual savings by replacing energy saver products. All the products mentioned on the site are approved by the Victorian Government and Essential Services Committee and are covered by their costs under the Victorian Energy Upgrades (VEU) program. The site would also act as a lead generation site for the Accredited Providers working under the same scheme and generate revenue for both developers and the company where in also saving energy consumption for the client and the government.
+
+ 
+ ## Motivation:
+The environment today is facing a shortage in resources in every sector. The sources of energy generation are depleting due to heavy usage in industries and growing population living in residences. In the earlier days coal and wood were burned to generate energy, then came the invention of water dams later came solar. But the point of all these inventions may not be able to cope up with the amount of growing needs in the society. In order to protect these fossil fuels, we need to figure out a way by which we can reduce the amount of energy these industries and residences use on the daily bases. This gave our group a new motivation to figure out a way by taking help of the existing government scheme and making our site to connect people to it and spread awareness. What keeps us going with this idea is that this scheme has been around for 8 years and plans on adding new products to its program every year. So, the idea may also last more than a few years to support both people and the government.
+
+
+ 
+ ## Description:
+ 
+ ## User end-
+The site starts up with the description of what Australia is facing with the depleting natural resources and fossil fuels. The scroll down would start to show some charts of the average usage of electricity gas and water of different industries and households. Then comes the description of programs and schemes running around the states to reduce this consumption and their progress in reducing this energy in the last 5 years.
+ 
+As we go further down, we can see an option of selecting an pre existing appliance. There would be options to select the type, model and the year of the appliance already installed and working. The option to add more appliances would also be provided. A user can add as many appliances as required. When the user is done adding the existing appliances, a flow chart showing usage and average estimation of the electricity bill would appear on the screen with tabs showing the latest scheme by the government and comparison of the new products with the old installed ones. It would also present a new chart showing the new electricity bill once the new products are installed and calculate the annual saving on the same. For example-
+If someone is using Incandescent bulbs at there house and it has wattage listed 35w with 800 lumen capacity, and under the government scheme an a60 bulb which is LED can replace the same with listed wattage 7w with 1000 lumen capacity free of charge. A suggestion would be provided with the detailed description of the product along with the savings which can be made after the installation.
+ 
+Same is the case with the industrial sector, for example-
+If someone uses Highbay industrial lights for there warehouse and there use of the lights is from 7 am to 8 pm, the site can calculate the usage of the pre existing product supposedly being a Mercury Vapor 400w light with 15000 lumen capacity which can be replaced to a newer technology of LED UFO lights with 22000 lumen capacity working at 80w with Daylight and Motion sensor and that too free of cost.
+
+Another example for the rebate scheme is Solar panel installation for households and industries which can be promoted through the site as the government has planned heavy rebates for the same keeping the buyback period for the customers less than 2 years.
+ 
+ 
+Going through the site in further depth once the user has made up their mind to avail the opportunity and get the energy saver products, the site would take them to a sign up page where basic details like Name, Number, Address of upgrade, email address, picture of the pre-existing product and a copy of electricity would be asked. Explaining the use of this information a terms and condition form would be shown to the customer. The image of the pre-existing product is necessary because when dealing with the program Essential Services Committee (ESC) asks for evidence of the old product and an evidence of the new product installed. All the pictures taken by the user would be geo tagged to avoid any confusions at the later stage. A copy of the electricity bill which is less than 3 months old is also a requirement because an evidence of pre-existing connection of power and the verification of the address becomes easy.
+ 
+An evidence of both is also required to avoid any fraudulent activity to upgrade products again and again in order to achieve extra money by the company or products by the user. 
+ 
+Taking a look at the notification system, all the users who allow the notifications can also receive live notification updates when a new product is added or if there is an upcoming news about the scheme itself.
+ 
+Afterwards an online appointment will be created which shows the user how the process is moving forward and is at what stage.
+
+## The stages include:-
+ 
+## 1) Register: When the user is interested in the scheme, they can easily register by putting the details put to sign up and select a password for the account setup. The site will then ask the appliances they are interested in getting replaced. All the selected preferences would be saved alongside the replacement products.
+ 
+## 2) Approval from Accredited provider to upgrade: This will then go through the backend process to get an accredited providers approval for the upgrade of existing product. Once the approvals are achieved
+ 
+## 3) Appointment: After the approval an appointment call or email would be made to the user for setting up a time with the required installer. If the appointment is successful, the site would give out the details of the selected installer.
+ 
+## 4) Installation: Products would be physically installed by the installer.
+ 
+## 5) Warranty: All the warranty, installations and terms and conditions would be updated to the account which can be accessed anytime later.
+ 
+The site after the appointment would remove any recommendations or tabs related to the product already installed.  
+ 
+ 
+Security and Privacy: Any user who wants none non-disclosure of information or shows no interest, none of the entered data would be used and would be stored for 280 days and then deleted.
+ 
+This would keep the users information safe and protect it from being leaked to the outside world.
+
+
+
+## Backend-
+ 
+Taking a brief view of the backend as well. Once a user opens the site and puts in the required details about the product where he is displayed with all the information and wishes to proceed with the scheme an email with the user details would be sent to the team and also the details of the customers stored in the cloud database. The backend team would then pass on the leads to the trusted Accredited Provider by the government and generate revenue for the working of the site.
+ 
+If a customer shows interest but has not asked for the replacement yet. A follow up would be done every two weeks to help retain the user. The process followed would be information spread via sms broadcast and emails.
+ 
+The site at the backend would also store and add the products existing and being added on the daily bases under the VEU program. This would keep the site and also the user upto date with the latest products and knowledge. The backend at later stage also plans on expanding its operations by pre-ordering the stock and store to maintain the regular flow in the market.
+ 
+An admin panel would be made where only admins can view the number of bookings made in the day, number of bookings installed, feedback given, APs contacts, product database and user database.
+
+## Number of bookings tab: 
+Admin via this can segregate appointments with the selected product and distribute these according to the products available with APs.  All new bookings would be listed here only.
+ 
+## Installed bookings tab:
+Admin via this tab can see the users and the bookings of the products which are being installed or installed.
+ 
+## Feedback:
+This tab would allow the admin to communicate to the user who has passed in a negative or positive feedback about service provided.
+ 
+## APs contacts: 
+This tab would store all the contacts and leads provided to the Accredited providers and customer numbers given. It can also show the approved appointments by the APs.
+ 
+## Product Database:
+All the approved products existing and new would be stored under this tab and only Admin would be allowed to edit the database.
+ 
+## User Database:
+Every user can be seen, edited, deleted and updated within this tab. This is only visible to admin.
+
+## Tools and tech:
+ 
+Tools used in the development would be:
+ 
+Vaadin - Vaadin is an open-source platform for web application development. The Vaadin Platform includes a set of web components, a Java web framework, and a set of tools and application starters. Its flagship product, Vaadin Platform allows the implementation of HTML5 web user interfaces using the Java programming language.​
+​
+https://en.wikipedia.org/wiki/Vaadin​
+ 
+Springboot - The Spring Framework is an application framework and inversion of control containers for the Java platform. The framework's core features can be used by any Java application, but there are extensions for building web applications on top of the Java EE platform.​
+​
+https://en.wikipedia.org/wiki/Spring_Framework
+ 
+Mongo DB - MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server-Side Public License.​
+​
+https://en.wikipedia.org/wiki/MongoDB​
+Elastic Beanstalk -AWS Elastic Beanstalk is an orchestration service offered by Amazon Web Services for deploying applications which orchestrates various AWS services, including EC2, S3, Simple Notification Service, CloudWatch, autoscaling, and Elastic Load Balancers.​
+​
+https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk​
+ 
+Circle CI-CircleCI is a modern continuous integration and continuous delivery (CI/CD) platform. The CircleCI Enterprise solution is installable inside your private cloud or data center and is free to try for a limited time. CircleCI automates build, test, and deployment of software.​
+https://circleci.com/docs/enterprise/overview/​
+ 
+JUnit5- JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM. This includes focusing on Java 8 and above, as well as enabling many different styles of testing.​
+·     ​
+https://junit.org/junit5/​
+ 
+Selenium- Selenium is a portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language.​
+·     ​
+https://en.wikipedia.org/wiki/Selenium_(software)​
+ 
+Confluence- Confluence is a web-based corporate wiki developed by Australian software company Atlassian. Atlassian wrote Confluence in the Java programming language and first published it in 2004. Confluence Standalone comes with a built-in Tomcat web server and hsql database, and also supports other databases.​
+https://en.wikipedia.org/wiki/Confluence_(software)​
+Skills:
+·       Product Owner
+·       Scrum master
+·       Frondend Dev
+·       Backend Dev
+·       Tester
+
+
+## Outcome: The product would support 4 million households to start with in Victoria and more than 100,000 businesses with free products and services at the same time reducing states and on a bigger level Australia’s energy consumption.
+
 
 
 
